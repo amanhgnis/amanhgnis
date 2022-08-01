@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Recent Projects
+
+📊 [**Algorithm Visualizer**](https://github.com/amanhgnis/algorithm-visualizer)
+- Built a GUI in Python and Pygame for visualizing different sorting algorithms.
+- Implemented selection sort, merge sort and quick sort.
+
+🐍 [**AI playing Snake**](https://github.com/amanhgnis/snake-reinforcement-learning)
+- Trained a reinforcement learning agent to play a clone of the game Snake using tabular and deep Q-learning algorithms.
+- Built the learning environment, the game mechanics and rendering in Python, implemented the networks in PyTorch.
+- Tested different state representations, rewards, discount factors, epsilon decay rates, networks and optimizers.
 <!--
 **amanhgnis/amanhgnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
